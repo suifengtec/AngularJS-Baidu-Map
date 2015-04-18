@@ -1,5 +1,5 @@
 # AngularJS-Baidu-Map
-AngularJS Baidu Map
+
   `
     <script src="js/baidu-map.js"></script>
     <!-- 大众版 -->
